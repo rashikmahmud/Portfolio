@@ -1,6 +1,6 @@
 # Rashik Mahmud Orchi — Portfolio
 
-Personal portfolio built with **Next.js 14 (App Router)** and **Framer Motion**, designed to deploy on **Vercel**.
+Personal portfolio built with **Next.js 14 (App Router)** and **Framer Motion**
 
 ---
 
